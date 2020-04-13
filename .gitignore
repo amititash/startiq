@@ -1,4 +1,10 @@
-# backend
+pyenv/
+*.env
+ 
+
+
+
+#backend
 node_modules
 .env
 dist
