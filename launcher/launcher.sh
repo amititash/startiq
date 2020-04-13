@@ -1,4 +1,6 @@
 #!/bin/bash
+
+#For this launcher to work, copy the envs directory consisting of all env variable files , into the launcher/ folder. 
 cp envs/notification-service.env ../notification-service/.env
 cp envs/backend-service.env ../backend-service/.env
 cp envs/bot-logger-service.env ../bot-logger-service/.env
